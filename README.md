@@ -46,7 +46,7 @@ Mon approche combine une maîtrise du Backend (POO, SQL, Eloquent) avec une rigu
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Outils"/>
-<br><b>Outils</b><br>
+<br><b>Outils</b><br> 
 <sub>Git / GitHub<br>Jira / Trello (Agile)<br>Composer</sub>
 </td>
 </tr>
