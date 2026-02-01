@@ -76,8 +76,11 @@ Mon approche combine une maîtrise du Backend (POO, SQL, Eloquent) avec une rigu
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OUBELKACEMhub&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUBELKACEMhub&layout=compact&theme=tokyonight&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OUBELKACEMhub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ahmed Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUBELKACEMhub&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=6" alt="Top Langs" />
 </p>
 
 ---
