@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Ahmed Oubelkacem
+#  Ahmed Oubelkacem
 ### Développeur Web Full Stack | Spécialiste PHP & Laravel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Oubelkacem-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
